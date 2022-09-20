@@ -16,7 +16,7 @@ const Connected: FC = () => {
                     <Text color="bodyText" fontSize="Xl" textAlign="center">
                         Each Nomad is randomly generated and can be staked to receive
                         <Text as='b'> $TRVL</Text>. Use your <Text as="b"> $TRVL</Text> to
-                        upgrade your wonderlust Nomad and receive perks withing the community!
+                        upgrade your wonderlust Nomad and receive perks within the community!
                     </Text>
                 </VStack>  
             </Container>
