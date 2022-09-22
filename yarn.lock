@@ -5935,7 +5935,7 @@
     "near-hd-key" "^1.2.1"
     "tweetnacl" "^1.0.2"
 
-"next@12.3.0":
+"next@^12.3.0":
   "integrity" "sha512-GpzI6me9V1+XYtfK0Ae9WD0mKqHyzQlGq1xH1rzNIYMASo4Tkl4rTe9jSqtBpXFhOS33KohXs9ZY38Akkhdciw=="
   "resolved" "https://registry.npmjs.org/next/-/next-12.3.0.tgz"
   "version" "12.3.0"
