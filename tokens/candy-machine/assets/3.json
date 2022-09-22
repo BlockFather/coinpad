@@ -1,0 +1,24 @@
+{
+    "name": "Experiencer",
+    "symbol": "CPAD",
+    "description": "legendary travelers: your gateway to the CoinPad network",
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "Travels",
+            "value": "Weekly"
+        },
+        {
+            "trait_type": "Season",
+            "value": "Summer"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

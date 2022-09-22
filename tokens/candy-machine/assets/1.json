@@ -1,0 +1,24 @@
+{
+    "name": "Cotton Candy Lobster",
+    "symbol": "CPAD",
+    "description": "legendary travelers: your gateway to the CoinPad network",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "Travels",
+            "value": "Quarterly"
+        },
+        {
+            "trait_type": "Season",
+            "value": "Spring"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

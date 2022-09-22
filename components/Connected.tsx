@@ -1,9 +1,67 @@
 import { Container, VStack, Heading, Button, Text, HStack, Image, Box, Flex, Wrap, WrapItem } from '@chakra-ui/react'
-import { FC, MouseEventHandler, useCallback } from 'react'
+import { FC, MouseEventHandler, useCallback, useEffect, useMemo, useState } from 'react'
+import { PublicKey } from '@solana/web3.js'
+import { useConnection, useWallet } from '@solana/wallet-adapter-react'
+import {
+    Metaplex,
+    walletAdapterIdentity,
+    CandyMachine,
+} from "@metaplex-foundation/js"
+import { useRouter } from 'next/router'
 
 const Connected: FC = () => {
 
-    
+    const { connection } = useConnection()
+    const walletAdapter = useWallet()
+    const [candyMachine, setCandyMachine] = useState<CandyMachine>()
+    const [isMinting, setIsMinting] = useState(false)
+
+    const metaplex = useMemo(() => {
+        return Metaplex.make(connection).use(walletAdapterIdentity(walletAdapter))
+    }, [connection, walletAdapter])
+
+    useEffect(() => {
+        if (!metaplex) return
+
+        metaplex
+            .candyMachines()
+            .findByAddress({
+                address: new PublicKey("2AVdQdNsR1tgehsWoUXX98tBuiHupciJGq2mgGxpgdeC"),
+            })
+            .run()
+            .then((candyMachine) => {
+                console.log(candyMachine)
+                setCandyMachine(candyMachine)
+            })
+            .catch((error) => {
+                alert(error)
+            })
+    }, [metaplex])
+
+    const router = useRouter()
+
+    const handleClick: MouseEventHandler<HTMLButtonElement> = useCallback(
+        async (event) => {
+            if (event.defaultPrevented) return
+
+            if (!walletAdapter.connected || !candyMachine) {
+                return
+            }
+
+            try {
+                setIsMinting(true)
+                const nft = await metaplex.candyMachines().mint({ candyMachine }).run()
+
+                console.log(nft)
+                router.push(`/newMint?mint=${nft.nft.address.toBase58()}`)
+            } catch (error) {
+                alert(error)
+            } finally{
+                setIsMinting(false)
+            }
+        },
+        [metaplex, walletAdapter, candyMachine]
+    )
 
     return (
         <VStack spacing={10}>
@@ -21,8 +79,14 @@ const Connected: FC = () => {
                 </VStack>  
             </Container>
 
-            <Button bgColor="accent" color="white" maxW='380px'>
-            <Text>mint Nomad</Text>
+            <Button 
+            bgColor="accent" 
+            color="white" 
+            maxW="380px" 
+            onClick={handleClick} 
+            isLoading={isMinting}
+            >
+                <Text>mint Nomad</Text>
             </Button> 
 
             
@@ -30,23 +94,13 @@ const Connected: FC = () => {
                 
                   
                         <HStack justifyContent='center'>
-                            <Image borderRadius='full' src="1379.png" alt="" />
-                        
-
-                        
+                         
                             <Image  borderRadius='full' src="3018.png" alt="" />
-                        
-
                         
                             <Image borderRadius='full' src="6861.png" alt="" />
                         
-
-                        
                             <Image borderRadius='full' src="9069.png" alt="" />
                         
-
-                        
-                            <Image borderRadius='full' src="763.png" alt="" />
                         </HStack>
                   
                
