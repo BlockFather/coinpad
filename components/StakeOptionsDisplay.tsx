@@ -55,6 +55,7 @@ export const StakeOptionsDisplay = ({
     
     
     
+    
     useEffect(() => {
         checkStakingStatus()
 

@@ -3,8 +3,7 @@ import {    Heading,
             Text, 
             HStack, 
             Image, 
-            Center, 
-            Flex 
+            Center, Flex 
         } from "@chakra-ui/react"
 import { Metaplex, walletAdapterIdentity } from "@metaplex-foundation/js"
 import { useConnection, useWallet } from "@solana/wallet-adapter-react"
@@ -15,12 +14,7 @@ import { ItemBox } from "../components/ItemBox"
 import MainLayout from "../components/MainLayout"
 import { StakeOptionsDisplay } from "../components/StakeOptionsDisplay"
 
-
-
-
-
-
-const Stake: NextPage<StakeProps> = ({mint, imageSrc}) => {
+const Stake: NextPage<StakeProps> = ({ mint, imageSrc}) => {
     const [isStaking, setIsStaking] = useState(false);
     const [level, setLevel] = useState(1)
     const [nftData, setNftData] = useState<any>()
@@ -54,8 +48,8 @@ const Stake: NextPage<StakeProps> = ({mint, imageSrc}) => {
                 </Heading>
                 <Text color="bodyText" fontSize="xl" textAlign="start" maxWidth="600px">
                     Stake your nomad to earn 10 $CPt per day to get acccess to
-                     a randomized loot box full of upgrades and supplies for your nomad's traveling pleasure
-                     to assist your nomad on it's journey
+                     a randomized loot box full of upgrades and supplies for your nomads traveling pleasure
+                     to assist your nomad on its journey
                 </Text>
                 <HStack spacing={20} alignItems="flex-start">
                     <VStack align="flex-start" minWidth="200px">
