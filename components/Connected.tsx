@@ -62,7 +62,7 @@ const Connected: FC = () => {
                 setIsMinting(false)
             }
         },
-        [metaplex, walletAdapter, candyMachine]
+        [metaplex, walletAdapter, candyMachine, router]
     )
 
     return (

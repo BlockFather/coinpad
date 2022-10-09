@@ -55,7 +55,7 @@ export const StakeOptionsDisplay = ({
     
     
     
-    
+
     useEffect(() => {
         checkStakingStatus()
 
@@ -64,7 +64,32 @@ export const StakeOptionsDisplay = ({
                 .getTokenLargestAccounts(nftData.mint.address)
                 .then((accounts) => setNftTokenAccount(accounts.value[0].address))
         }
-    }, [nftData, walletAdapter, connection])
+    }, [nftData, walletAdapter, connection, checkStakingStatus])
+
+    const sendAndConfirmTransaction = useCallback(
+        async (transaction: Transaction) => {
+            try {
+                const signature = await walletAdapter.sendTransaction(
+                    transaction, 
+                    connection
+                )
+                const latestBlockhash = await connection.getLatestBlockhash()
+                await connection.confirmTransaction(
+                    {
+                        blockhash: latestBlockhash.blockhash,
+                        lastValidBlockHeight: latestBlockhash.lastValidBlockHeight,
+                        signature: signature
+                    },
+                    "finalized"
+                )
+            } catch (error) {
+                console.log(error)
+            }
+
+            await checkStakingStatus()
+        },
+        [walletAdapter, connection, checkStakingStatus]
+     )
 
     const handleStake = useCallback(async () => {
         if (
@@ -107,32 +132,11 @@ export const StakeOptionsDisplay = ({
         transaction.add(stakeInstruction)
 
         await sendAndConfirmTransaction(transaction)
-    }, [walletAdapter, connection, nftData, nftTokenAccount])
-
-    const sendAndConfirmTransaction = useCallback(
-        async (transaction: Transaction) => {
-            try {
-                const signature = await walletAdapter.sendTransaction(
-                    transaction, 
-                    connection
-                )
-                const latestBlockhash = await connection.getLatestBlockhash()
-                await connection.confirmTransaction(
-                    {
-                        blockhash: latestBlockhash.blockhash,
-                        lastValidBlockHeight: latestBlockhash.lastValidBlockHeight,
-                        signature: signature
-                    },
-                    "finalized"
-                )
-            } catch (error) {
-                console.log(error)
-            }
-
-            await checkStakingStatus()
-        },
-        [walletAdapter, connection]
-     )
+    }, [walletAdapter, 
+        connection, 
+        nftData, 
+        nftTokenAccount, 
+        sendAndConfirmTransaction])
 
     const handleUnstake = useCallback(async () => {
         if (
@@ -179,7 +183,7 @@ export const StakeOptionsDisplay = ({
         )
 
         await sendAndConfirmTransaction(transaction)
-    }, [walletAdapter, connection, nftData, nftTokenAccount])
+    }, [walletAdapter, connection, nftData, nftTokenAccount, sendAndConfirmTransaction])
 
     const handleClaim = useCallback(async () => {
         if (
@@ -224,7 +228,7 @@ export const StakeOptionsDisplay = ({
 
         await sendAndConfirmTransaction(transaction)
 
-    }, [walletAdapter, connection])
+    }, [walletAdapter, connection, nftData.mint.address, nftTokenAccount, sendAndConfirmTransaction])
 
     return (
         <VStack 

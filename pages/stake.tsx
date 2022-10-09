@@ -34,7 +34,7 @@ const Stake: NextPage<StakeProps> = ({ mint, imageSrc}) => {
             .then((nft) => {
                 setNftData(nft)
             })
-    }, [connection, walletAdapter])
+    }, [connection, walletAdapter, mint])
 
     return (
         <MainLayout>
