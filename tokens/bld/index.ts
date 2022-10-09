@@ -23,7 +23,12 @@ const TOKEN_IMAGE_NAME = "Hero-head.png"
 async function createBldToken(
     connection: web3.Connection,
     payer: web3.Keypair,
+    programId: web3.PublicKey
 ){
+    const [mintAuth] = await web3.PublicKey.findProgramAddress(
+        [Buffer.from('mint')],
+        programId
+    )
     const tokenMint = await token.createMint(
         connection,
         payer,
@@ -90,6 +95,15 @@ async function createBldToken(
         [payer]
     )
 
+    await token.setAuthority(
+        connection,
+        payer,
+        tokenMint,
+        payer.publicKey,
+        token.AuthorityType.MintTokens,
+        mintAuth
+    )
+
     fs.writeFileSync(
         "tokens/bld/cache.json",
         JSON.stringify({
@@ -106,7 +120,11 @@ async function main() {
     const connection = new web3.Connection(web3.clusterApiUrl("devnet"))
     const payer = await initializeKeypair(connection)
 
-    await createBldToken(connection, payer)
+    await createBldToken(
+        connection,
+        payer,
+        new web3.PublicKey("5FA4RbXAdfNeyqr9tFHiEayUPV9UJevnmsqEFxkC23rJ")
+    )
 }
 
 
