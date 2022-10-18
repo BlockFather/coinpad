@@ -44,7 +44,7 @@ const NewMint: NextPage<NewMintProps> = ({ mint }) => {
   return (
     <MainLayout>
 
-            <VStack spacing={20}>
+            <VStack spacing={10}>
                 <Container>
                     <VStack spacing={8}>
                         <Heading color="white" as="h1" size="2xl" textAlign="center">
