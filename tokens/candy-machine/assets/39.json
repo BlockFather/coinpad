@@ -1,0 +1,28 @@
+{
+    "name": "Passport",
+    "symbol": "NoMad",
+    "description": "legendary travelers: your gateway to the Wagmi.travel network",
+    "image": "39.png",
+    "attributes": [
+        {
+            "trait_type": "Travels",
+            "value": "Monthly"
+        },
+        {
+            "trait_type": "Season",
+            "value": "Spring"
+        },
+        {
+            "trait_type": "crew",
+            "value": "Travel Legends"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "39.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

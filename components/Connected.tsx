@@ -26,7 +26,7 @@ const Connected: FC = () => {
         metaplex
             .candyMachines()
             .findByAddress({
-                address: new PublicKey("2AVdQdNsR1tgehsWoUXX98tBuiHupciJGq2mgGxpgdeC"),
+                address: new PublicKey("6gykg4w3vDRBReZfUdSaszGHZnb5iYjnq8jEQCZgn711"),
             })
             .run()
             .then((candyMachine) => {
@@ -68,13 +68,15 @@ const Connected: FC = () => {
             <Container>
                 <VStack spacing={8}>
                     <Heading color="white" as='h1' size='2xl' noOfLines={1} textAlign='center'>
-                        Welcome Wonderer.
+                        Welcome Nomad.
                     </Heading>
 
                     <Text color="bodyText" fontSize="Xl" textAlign="center">
-                        Each Nomad is randomly generated and can be staked to receive
-                        <Text as='b'> $TRVL</Text>. Use your <Text as="b"> $TRVL</Text> to
-                        upgrade your wonderlust Nomad and receive perks within the community!
+                        Each NoMad is randomly generated and can be staked to receive
+                        <Text as='b'> $TRVL</Text>.
+                            <br />
+                            <br /> Use your <Text as="b"> $TRVL</Text> to enhance your NoMadic experience
+                            <br/> and unlock exclusive experiences!
                     </Text>
                 </VStack>  
             </Container>

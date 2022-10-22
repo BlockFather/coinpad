@@ -1,16 +1,20 @@
 {
-    "name": "Walden",
-    "symbol": "CPAD",
-    "description": "legendary travelers: your gateway to the CoinPad network",
+    "name": "Candy CornMad",
+    "symbol": "NoMad",
+    "description": "legendary travelers: your gateway to the Wagmi.travel network",
     "image": "2.png",
     "attributes": [
         {
             "trait_type": "Travels",
-            "value": "Monthly"
+            "value": "Quarterly"
         },
         {
             "trait_type": "Season",
-            "value": "Fall"
+            "value": "Summer"
+        },
+        {
+            "trait_type": "crew",
+            "value": "Cornifferous"
         }
     ],
     "properties": {

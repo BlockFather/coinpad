@@ -1,0 +1,28 @@
+{
+    "name": "Young Walden",
+    "symbol": "NoMad",
+    "description": "legendary travelers: your gateway to the Wagmi.travel network",
+    "image": "18.png",
+    "attributes": [
+        {
+            "trait_type": "Travels",
+            "value": "Constantly"
+        },
+        {
+            "trait_type": "Season",
+            "value": "All Seasons"
+        },
+        {
+            "trait_type": "crew",
+            "value": "Dreamer"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "18.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

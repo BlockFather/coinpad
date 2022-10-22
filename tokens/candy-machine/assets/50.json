@@ -1,0 +1,28 @@
+{
+    "name": "Blockfather Special 1",
+    "symbol": "NoMad",
+    "description": "legendary travelers: your gateway to the Wagmi.travel network",
+    "image": "50.png",
+    "attributes": [
+        {
+            "trait_type": "Travels",
+            "value": "yes"
+        },
+        {
+            "trait_type": "Season",
+            "value": "yes"
+        },
+        {
+            "trait_type": "crew",
+            "value": "Secret"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "50.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

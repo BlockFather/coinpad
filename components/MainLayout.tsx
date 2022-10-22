@@ -7,11 +7,12 @@ import { useWallet } from '@solana/wallet-adapter-react'
 
 const MainLayout: FC<{ children: ReactNode }> = ({ children}) => {
     const { connected } = useWallet()
+
     return (
         <div className={styles.container}>
       <Head>
-        <title>CoinPad</title>
-        <meta name="The NFT Collection for Coinpad" />
+        <title>WAGMI</title>
+        <meta name="The NFT Collection for WAGMI.travel" />
         <link rel="icon" href="favicon.ico" />
       </Head>
 
@@ -27,17 +28,21 @@ const MainLayout: FC<{ children: ReactNode }> = ({ children}) => {
           <Stack w='full' h='calc(100vh)' justify='top'>
             <NavBar />
 
+            <Spacer>
+
             <Center>{ children } </Center>
+
+            </Spacer>
 
             <Center>
               <Box marginBottom={4} color="white">
-              {/*<a 
-                  href="https//twitter.com/_buildspace"
+                <a 
+                  href="https//twitter.com/0xblockfather"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   Built by @BlockFather
-                </a>*/}
+                </a>
               </Box>
             </Center>
           </Stack>

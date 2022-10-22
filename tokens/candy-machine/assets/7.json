@@ -1,0 +1,28 @@
+{
+    "name": "Golden God Millennial",
+    "symbol": "NoMad",
+    "description": "legendary travelers: your gateway to the Wagmi.travel network",
+    "image": "7.png",
+    "attributes": [
+        {
+            "trait_type": "Travels",
+            "value": "Like a Golden God"
+        },
+        {
+            "trait_type": "Season",
+            "value": "Golden Hour"
+        },
+        {
+            "trait_type": "crew",
+            "value": "GoldenGods"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "7.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "No Fks Given Nomad",
+    "symbol": "NoMad",
+    "description": "legendary travelers: your gateway to the Wagmi.travel network",
+    "image": "32.png",
+    "attributes": [
+        {
+            "trait_type": "Travels",
+            "value": "Quarterly"
+        },
+        {
+            "trait_type": "Season",
+            "value": "Spring"
+        },
+        {
+            "trait_type": "crew",
+            "value": "Subjectives"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "32.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Cotton Candy Lobster",
+    "symbol": "NoMad",
+    "description": "legendary travelers: your gateway to the Wagmi.travel network",
+    "image": "17.png",
+    "attributes": [
+        {
+            "trait_type": "Travels",
+            "value": "Rarely"
+        },
+        {
+            "trait_type": "Season",
+            "value": "Winter"
+        },
+        {
+            "trait_type": "crew",
+            "value": "Dream Lobsters"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "17.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

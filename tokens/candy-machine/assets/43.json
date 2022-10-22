@@ -1,0 +1,28 @@
+{
+    "name": "The Ancient One",
+    "symbol": "NoMad",
+    "description": "legendary travelers: your gateway to the Wagmi.travel network",
+    "image": "43.png",
+    "attributes": [
+        {
+            "trait_type": "Travels",
+            "value": "Monthly"
+        },
+        {
+            "trait_type": "Season",
+            "value": "Spring"
+        },
+        {
+            "trait_type": "crew",
+            "value": "Travel Legends"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "43.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

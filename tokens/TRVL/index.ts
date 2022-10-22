@@ -14,13 +14,13 @@ import {
 } from "@metaplex-foundation/mpl-token-metadata"
 import * as fs from "fs"
 
-const TOKEN_NAME = "CoinPad"
-const TOKEN_SYMBOL = "CP"
-const TOKEN_DESCRIPTION ="A magical token for the wonder-stricken nomad"
-const TOKEN_IMAGE_PATH = "tokens/bld/assets/Hero-head.png"
-const TOKEN_IMAGE_NAME = "Hero-head.png"
+const TOKEN_NAME = "CoinPad Travel Tokens"
+const TOKEN_SYMBOL = "TRVL"
+const TOKEN_DESCRIPTION ="A magical token for the wonder-stricken NoMad"
+const TOKEN_IMAGE_PATH = "tokens/TRVL/assets/truck.png"
+const TOKEN_IMAGE_NAME = "truck.png"
 
-async function createBldToken(
+async function createTrvlToken(
     connection: web3.Connection,
     payer: web3.Keypair,
 ){
@@ -91,7 +91,7 @@ async function createBldToken(
     )
 
     fs.writeFileSync(
-        "tokens/bld/cache.json",
+        "tokens/TRVL/cache.json",
         JSON.stringify({
             mint: tokenMint.toBase58(),
             imageUri: imageUri,
@@ -106,7 +106,7 @@ async function main() {
     const connection = new web3.Connection(web3.clusterApiUrl("devnet"))
     const payer = await initializeKeypair(connection)
 
-    await createBldToken(connection, payer)
+    await createTrvlToken(connection, payer)
 }
 
 

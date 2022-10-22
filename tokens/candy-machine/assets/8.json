@@ -1,0 +1,28 @@
+{
+    "name": "Cornonaut",
+    "symbol": "NoMad",
+    "description": "legendary travelers: your gateway to the Wagmi.travel network",
+    "image": "8.png",
+    "attributes": [
+        {
+            "trait_type": "Travels",
+            "value": "Yearly"
+        },
+        {
+            "trait_type": "Season",
+            "value": "Fall"
+        },
+        {
+            "trait_type": "crew",
+            "value": "Cornifferous"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "8.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
