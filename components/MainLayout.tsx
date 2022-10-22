@@ -11,9 +11,9 @@ const MainLayout: FC<{ children: ReactNode }> = ({ children}) => {
     return (
         <div className={styles.container}>
       <Head>
-        <title>WAGMI</title>
+        <title>WAGMI.Travel</title>
         <meta name="The NFT Collection for WAGMI.travel" />
-        <link rel="icon" href="favicon.ico" />
+        <link rel="icon" href="/693-svg.svg" />
       </Head>
 
       <Box 
