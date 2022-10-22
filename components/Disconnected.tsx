@@ -24,7 +24,7 @@ const Disconnected: FC = () => {
 
     return (
         <Container>
-            <VStack spacing={10} marginTop={0}>
+            <VStack spacing={80} marginTop={0}>
                 <Heading 
                     color='whiteAlpha.600'
                     as='h1' 
