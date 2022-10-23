@@ -1,5 +1,5 @@
 {
-  "price": 0.0,
+  "price": 0.05,
   "number": 52,
   "gatekeeper": null,
   "creators": [
@@ -11,7 +11,7 @@
   "solTreasuryAccount": "DEx4N3FbMCC5HLK9vy5db2r4N7JZyYeoGx2pYh3ux5tA",
   "splTokenAccount": null,
   "splToken": null,
-  "goLiveDate": "2022-10-18T19:53:27.738074+00:00",
+  "goLiveDate": "2022-10-21T19:00:00.738074+00:00",
   "endSettings": null,
   "whitelistMintSettings": null,
   "hiddenSettings": null,
@@ -20,7 +20,7 @@
   "retainAuthority": true,
   "isMutable": true,
   "symbol": "NoMad",
-  "sellerFeeBasisPoints": 100,
+  "sellerFeeBasisPoints": 500,
   "awsConfig": null,
   "nftStorageAuthToken": null,
   "shdwStorageAccount": null

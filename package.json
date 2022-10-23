@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "create-TRVL-token": "ts-node ./tokens/TRVL/index.ts",
-    "reset-candy-machine": "rm tokens/candy-machine/cache.json && cd tokens/candy-machine && sugar launch"
+    "reset-candy-machine": "rm tokens/candy-machine/cache.json; cd tokens/candy-machine && sugar launch -r https://api.devnet.solana.com"
   },
   "dependencies": {
     "@chakra-ui/icons": "^2.0.9",

@@ -1,432 +1,432 @@
 {
   "program": {
-    "candyMachine": "6gykg4w3vDRBReZfUdSaszGHZnb5iYjnq8jEQCZgn711",
-    "candyMachineCreator": "BG2eHYc1p9E7E7rDNyQvSWRQNvi6WM3hvj4TAmTJgEXu",
-    "collectionMint": "G2ozyUeV1H4GvuRe1akRJhWXsHnkYGhcCQUykjrg81dH"
+    "candyMachine": "4mFtBjuMQRHGid5qCGPqrgZ81tA8zBh9CVYixhCsEUvT",
+    "candyMachineCreator": "GULaQVqHjRXLZaJf1en5doh3cqfSXP5McX4LKLpfVUwE",
+    "collectionMint": "Bc2SCPv1DNaNiDVqe271kmPJCtCA1oqJbgrPATVp8PTq"
   },
   "items": {
     "-1": {
       "name": "Wagmi.travel NoMads",
       "image_hash": "4c804b67e95f7ce1b06877dd295d03bff39653fb91928c9daf6a891beeae78d5",
-      "image_link": "https://arweave.net/8MfuFoLsXIovr56QtXXSmS2cBaxoMM1j858DNBk5aQg?ext=png",
+      "image_link": "https://arweave.net/zhpb-pgBfNVDror0tqT3ifQHuaI7WOW9r_nb4ooER4c?ext=png",
       "metadata_hash": "87c715202a13848f456df0dc4f01c4b692b360e498c725b03d942685c2f505c1",
-      "metadata_link": "https://arweave.net/_bV7RARl1RXch8ZoHLkXmxXldcLbjqba6dBvkVnyVZM",
+      "metadata_link": "https://arweave.net/pc7copYxzf8zJpA4dct6fyd-Pukj2BGPfrOwzZOk5W4",
       "onChain": true
     },
     "0": {
       "name": "50s CornMad",
       "image_hash": "0a7d205faac9d3d8f44df1edfb6984012e31da856c0540c8b986c5db453c635d",
-      "image_link": "https://arweave.net/hTvSYN4Fpr7MS6WTYUMAFW6TyqOqLp74TmBKQ8BKI40?ext=png",
+      "image_link": "https://arweave.net/JENvmPdB5eA-zZlS-ep5jqiZj3-e9Fas4hYZZ4sftbc?ext=png",
       "metadata_hash": "da8da3b4e308bd7377d2be02b2c25f47233175f891eca3024feda4adc3ecdf4c",
-      "metadata_link": "https://arweave.net/iSrvw5AL5FCFaHyt1VKJjnnsDH6lXFIJ-Eh2hzXkupc",
+      "metadata_link": "https://arweave.net/EJqlz2Fd3hdtoJu1bbErXEDrIjY31bWkPN5BXPRcnu8",
       "onChain": true
     },
     "1": {
       "name": "50s CornMad",
       "image_hash": "ab972ab50fb80d4eab51a73658ad64db4377f728d40d5cac5154942013173b01",
-      "image_link": "https://arweave.net/CmCRNeK8onzNauTrFFv_b0T3lPYBiPC1xYn9ptBGZDo?ext=png",
+      "image_link": "https://arweave.net/hYmCgQZ3RJy92e2CNZv_jWMysiSSvZOpL4FJdANS84E?ext=png",
       "metadata_hash": "0015ccd93754dd44ef6b46abfcd96d35140e503de2217b861a5f36f3d942f1d2",
-      "metadata_link": "https://arweave.net/SIT33eTeSrsfpXC6UxLvOqXtolmUKvtQiaE4b0y1YSY",
+      "metadata_link": "https://arweave.net/Ou6LuO_NCyYucWdeZuQLoJffUcPpZx_rSkjc5g9eKa4",
       "onChain": true
     },
     "10": {
       "name": "Grumpy Cat",
       "image_hash": "8c1ce268dc8fb6167d0ca5a12f62e41b82dcc4351ee0d179e1a576d72667bfaf",
-      "image_link": "https://arweave.net/lHx6IoGRmXkskmcFDAfpu3zLoHs62L9StWh3Z4eMLsE?ext=png",
+      "image_link": "https://arweave.net/SnJ85QlZ0ouwBXxtYiV3EAmy2xY3LKrFGPKeQk1h1og?ext=png",
       "metadata_hash": "96f44d5c590f8ce1b9921010e3112669162a335039f33ddfdb22e08a01626d85",
-      "metadata_link": "https://arweave.net/EicTndPYykjs9hgw1fs65MLvsrddh-9hrGYHQ0UTnVY",
+      "metadata_link": "https://arweave.net/Ly5BvKztwMZGbZJ4K28TvBhKbML2qE3ZlPIyPoU-iKs",
       "onChain": true
     },
     "11": {
       "name": "Grumpy Cat 2",
       "image_hash": "48f67ec35cda8054c7f6f744f8db02c4aeb3a001a15c50d321f9ef193ee4b021",
-      "image_link": "https://arweave.net/LG5k5x0aObhx-mcOpYR-PH_XS-Xayp3qEiIKfSxxDDo?ext=png",
+      "image_link": "https://arweave.net/kGY6EpUK5fDqOQX-AG0yCE5yV8zSp9tLhRy_XiV_-RM?ext=png",
       "metadata_hash": "a6e5e469f99321a02c47890311a64d354e9f4d0166ece8ce3888b1872428e230",
-      "metadata_link": "https://arweave.net/gsioYRQXv2AnCvqp50MlJDpldluYTNqIK9uHw6NeE2Y",
+      "metadata_link": "https://arweave.net/wwkYVfkamr6xHeZJaIk5YLDAsGDdGwrY55XHJ_SRwKA",
       "onChain": true
     },
     "12": {
       "name": "Grumpy Cat 3",
       "image_hash": "c67499b39e0f3dd41805728fd4ca9c01c0a538dd20224610944c14934a4543f7",
-      "image_link": "https://arweave.net/ngOAhBN_Bp7Ei8ZrSFWa87cUw722gyvwA-3tPlrWYow?ext=png",
+      "image_link": "https://arweave.net/WH7QFxYaLDb-V0ZHSfc1-MUHd4i1OqR8fscHuu1av10?ext=png",
       "metadata_hash": "0c2067cb231cd1ce3aa46ab44f065e2963f83b647b74372292b9f97d2a77af0f",
-      "metadata_link": "https://arweave.net/m3n06zb1Uh_32rkudribny0K5xpAj7InRHkmkpvrB40",
+      "metadata_link": "https://arweave.net/76eyxSD-J38330_5W1gQQ5L-76TzwR56hb5w0wR5_5s",
       "onChain": true
     },
     "13": {
       "name": "Ser Dogster",
       "image_hash": "07188765aea4c08d6825685acfe4226f2a6e44483f47160ba4a43441c47a0ba7",
-      "image_link": "https://arweave.net/Rt5QeP0Krj0FYRYoOJhp5Q-51k0fyk9Oy7VYJ3Pxrns?ext=png",
+      "image_link": "https://arweave.net/pr8jMcZRtfVUT9SChJ8LjYgdeZewtEBBWjuraUAnTWQ?ext=png",
       "metadata_hash": "56fb921e9738c798998925de6c6ef9d471b835e1f8db3549a99d7a4213dafa4a",
-      "metadata_link": "https://arweave.net/0CvdkB7S_9vWX_U8OT6-QkzvXahCjarV6Xbtl-D2m_g",
+      "metadata_link": "https://arweave.net/2Iv73eJrM4vlgK3jBst2Gcq1CBaMkx1ZHYswzIwdX8M",
       "onChain": true
     },
     "14": {
       "name": "Lob-ser",
       "image_hash": "9fcd89f06df06f7a60360d4fbff9a3b30c28833573ead2b938b8e1587faa88dd",
-      "image_link": "https://arweave.net/fT9RDXCzZGYDR4DgbEU2SDy34v0K-telti_QYtAFmRM?ext=png",
+      "image_link": "https://arweave.net/E5yXiWPQXgYc6aY7K7SlWaHXZofvahbYiV6WZ0De1ws?ext=png",
       "metadata_hash": "25478d4da8f8fc98b3f75f5ce351a2a5098e119f95b6963b6502766ec87aef92",
-      "metadata_link": "https://arweave.net/2yWl_IwTmwKHTuCw8pJtZyuyDc0LnPe1T5PouBtFn2w",
+      "metadata_link": "https://arweave.net/kT0DgL0dHQ1Aze5ZbXo1To0J6wcJr5uoghdTSFsAwKQ",
       "onChain": true
     },
     "15": {
       "name": "Noble Crustie",
       "image_hash": "877c8943417a065c5a6b48ea6e6e5dfee854732fa2dae3d8bec36932ab8b0713",
-      "image_link": "https://arweave.net/z6P4CoJNFtUCFKpfMU4I5nTwDLmNzc2ULVrmhIC0rNo?ext=png",
+      "image_link": "https://arweave.net/VndpFRgCbDUplXCkqbrX_-ztQvpd-5sqBF1yaHQTwek?ext=png",
       "metadata_hash": "23e5f85daf63e93140b86cd48a46f36255da69cba607706424b9e5455ffa272e",
-      "metadata_link": "https://arweave.net/VhlORBsdqmomy-8bjT6bO1gdc6wG4Aqf6rmTFKBizO4",
+      "metadata_link": "https://arweave.net/y_Qf7a6P5kW-rOE9Nt-grqzJes8bbdsD66M55fKo7xs",
       "onChain": true
     },
     "16": {
       "name": "Lobster Mobster",
       "image_hash": "fe364e19e0ad4a1c6a63188a6c2800eb8aa720e3e4164d50d73f88d5f1967e43",
-      "image_link": "https://arweave.net/XlM3m-YBPGgGR1Whv4ESOZuIM2M-8kuAQVXpALL8l-I?ext=png",
+      "image_link": "https://arweave.net/bI8Y2HDduyrWNN98RlkueZNrAOeoi71bndTteotJ68c?ext=png",
       "metadata_hash": "eba4cf0c46117f747f06bb23702b6c03f7a9297d6bfd5a57364bd257a0014f1c",
-      "metadata_link": "https://arweave.net/IlkDHFtxfuw2I_vbXtQOswy4NuD4O2f_C1iRU2Ppa-Y",
+      "metadata_link": "https://arweave.net/2y0-ywQ0Mj-UJDgffTMIDyNbUNmcethMocReIj-5sTI",
       "onChain": true
     },
     "17": {
       "name": "Cotton Candy Lobster",
       "image_hash": "a11976c6fce374972f3c22813f4aaf7dc421b29560371d109d61c6e46abd7c32",
-      "image_link": "https://arweave.net/_jhwAwGMq4n4btb9mGejZzUqZKYP824jAvqAlbMiYlY?ext=png",
+      "image_link": "https://arweave.net/EKlFE-wNnbXgkz6l2SIgJzN92OdtIqkTUJB3QUEYwvM?ext=png",
       "metadata_hash": "7b7bb72bc7500e3708302a638ec48b3324bde582c9e3e2819888a91edf5d3334",
-      "metadata_link": "https://arweave.net/-84WtYteWs8MfbMgYrBIO20VaaZriS46o2bfJThRknU",
+      "metadata_link": "https://arweave.net/sY2fYvg8bX3zpYRAvmLcANxIJ49A4tqePH87DR9pJgY",
       "onChain": true
     },
     "18": {
       "name": "Young Walden",
       "image_hash": "d0c7e1a71082bcd33d036e6a4f8dff3a4117c332aed9f696b68b5eeb588fa9c3",
-      "image_link": "https://arweave.net/_d2vus7cy-D1qwdlRVD0jfv6IXLRac666TzPPwZbCEM?ext=png",
+      "image_link": "https://arweave.net/1L3CkflFd6oowfkVML9G-D9IrsAHrCZRxh1d0o92elU?ext=png",
       "metadata_hash": "5b8ab7db553922b63ef06906c5f9c0dc8e33da9abedb9d2ce18d2f1a0ddcdab5",
-      "metadata_link": "https://arweave.net/IPPPeqV_x5OO9dbDV6u8HuMuJIhOIAaHfvUFIgaN2kQ",
+      "metadata_link": "https://arweave.net/Eadr6hW6uqO5JdRHdkzTr9bBlp3lzo0uwga3YOo_Rnw",
       "onChain": true
     },
     "19": {
       "name": "Degenic Nomad 1",
       "image_hash": "a1fe591bded8c0654d0ff7176db7701543f48cc2b4b9a33b6a0cefc6f5778376",
-      "image_link": "https://arweave.net/jnwI1j6tD6hkuNAGwbdumI3fvYVDB5nUhLWKceLunFk?ext=png",
+      "image_link": "https://arweave.net/AKs8DhgRQqZOWxHtaqEx9vpoMMFc43MKCmZbcMWGUOc?ext=png",
       "metadata_hash": "27a08f1aed2352ad5857e4cfbd067e1155f25a6ad55c4a98a9f5ac29fb5165c2",
-      "metadata_link": "https://arweave.net/w61_ne94KFpIGQAqKZ2Y4og1id7aF_ZAR3eSBR5-2vk",
+      "metadata_link": "https://arweave.net/7-ei-kuD1L4yrDCLwzamks-JQJb164J7oJTvEAWBDrQ",
       "onChain": true
     },
     "2": {
       "name": "Candy CornMad",
       "image_hash": "f2e65725de15f46724f9266ac657714e273b74c346d55a58007e7ddd0d159760",
-      "image_link": "https://arweave.net/XRmr2bMtrMGa8PpSngPzeiiROxEANF9crUr_e8pLVhw?ext=png",
+      "image_link": "https://arweave.net/DvymDHCaBjzpii7aRnBZne03n28i_SFrpIStRQoEft4?ext=png",
       "metadata_hash": "9b41c26d01d8429fc7c78a23bca02e37b482fcf2623636149406c39c14b8b1f5",
-      "metadata_link": "https://arweave.net/nsbtF55wz-oW8_CYaqBxPPOkeCCEcz1plPIZGKzUGqw",
+      "metadata_link": "https://arweave.net/wXXOf6eAD26VGTJE6AXTuWxY0vYBnHtOL-rMDCWQ8bg",
       "onChain": true
     },
     "20": {
       "name": "Degenic Nomad 2",
       "image_hash": "24d10d8b02f7a7dce73b28829ff8784e982e424e1baf4f8e08cc25900fcc827c",
-      "image_link": "https://arweave.net/S-sdh_imeZs9tGnyEBPUw4b4BvQhY4CPx7xu3lMQ5ls?ext=png",
+      "image_link": "https://arweave.net/CR4nSgFtEBcvPEfON0J6JNy5BPT_rJCFrClF3D0MndI?ext=png",
       "metadata_hash": "6778aa8278e18a3b1444d0472032efbf962a1727c4b52fcf9d16bb7e55918cea",
-      "metadata_link": "https://arweave.net/Sw_I_e-E7oSXw_hptRK_S2gRiVOPXP8_vyam8XQ9oGE",
+      "metadata_link": "https://arweave.net/ymnULnD3hKilNXN8cestyjkRIvLGS7bY0CHjjZ_U3fc",
       "onChain": true
     },
     "21": {
       "name": "Degenic Nomad 3",
       "image_hash": "7e7e5b1e7935fcd2557906ac29b7afe8d33245c65febb7faf444ce8346d26be4",
-      "image_link": "https://arweave.net/ATFLAvYvQRfBW9VtTRFs2ir_CvKosPelwCMRnsMAKGI?ext=png",
+      "image_link": "https://arweave.net/p0sC6MdMkdh5z__Q1_LGGOV2SuTPyvg9Y7knjaGaLFk?ext=png",
       "metadata_hash": "8ec77f45742ce858299df6af45def0c70d0184dc983b7f67f075246796c2079e",
-      "metadata_link": "https://arweave.net/NuINh6R6bdnVuTdVfBY5w2e0xGUOnrc6OtNh0DTXLM4",
+      "metadata_link": "https://arweave.net/4yTp1qcxn8GRmpbcwe-7zPgs2edTSEusxIz6V4Bw43M",
       "onChain": true
     },
     "22": {
       "name": "Degenic Nomad 4",
       "image_hash": "b8f3a01b590c02524832ee4104b78c6574ddb9ce1419c03eca0cee698c61c5f8",
-      "image_link": "https://arweave.net/dJ15JPG4Hh1cRewVfztgLi7aB7biRqLUox647US76sI?ext=png",
+      "image_link": "https://arweave.net/VeM4XRk_RO3uTR9A0pKKuiFQ60mGWQDxqlgAxaWny14?ext=png",
       "metadata_hash": "59e20fa25197ae70f4e20759bdace54abc2d3b083e5f36577cd810d3afbe3e94",
-      "metadata_link": "https://arweave.net/QbZV710k0ngjc3gzU8UAHj4bHM3Xt2JAhoiWYP4ycdY",
+      "metadata_link": "https://arweave.net/ccty_SApzVT2zVBU5bnzxA_HnJTJ4TECqF_ufCTfeyU",
       "onChain": true
     },
     "23": {
       "name": "Degenic Nomad 5",
       "image_hash": "562e30975db64bde886f22a13087082eef7a3fac2f1416d6834db1e531fb82d3",
-      "image_link": "https://arweave.net/tRGUkDznYH6YmbvFxSk2HGj71QrylHVZy0WR7OYrXaI?ext=png",
+      "image_link": "https://arweave.net/4WeIAN4OACJq7CPbKnJA12E5iUBpQXrsAJ-Lwx9E3-s?ext=png",
       "metadata_hash": "7fcc35c9a43f0d663c2f5635310b0d08b41b0175a03a841f40058041fc096858",
-      "metadata_link": "https://arweave.net/lenS0KHDVJ3i6bV8MAHPYfmaGkIs3K1jWmhZph4WeN0",
+      "metadata_link": "https://arweave.net/Kq8yoqksfyVcO7WIPq3y3I6L5GMm5Y168RYkgxdcKk4",
       "onChain": true
     },
     "24": {
       "name": "Degenic Nomad 6",
       "image_hash": "fa0ddc2822ffe7601bac71b509778538a1afea7828c4089d37c75aa6503abe71",
-      "image_link": "https://arweave.net/LnpqyGICU_oyWHdtYs5DjGHLJ_hNv4t9gHzwuWFZiGE?ext=png",
+      "image_link": "https://arweave.net/av4fTHhWfBPB6wKjhkd7558X_XEAT9tITpTHt-IIm-A?ext=png",
       "metadata_hash": "bbd6eca7533ca44b884994467be7d4a9445fccc3f752b9ddb00737e5af6d4551",
-      "metadata_link": "https://arweave.net/UP3CTbiXvqfwDIweIvnUioiOmFcD8oUZfcbqLhJ8zas",
+      "metadata_link": "https://arweave.net/bRMDwncx3ZTMPpYtqp6NTpU-DUZg4yiRxFF81JmExYc",
       "onChain": true
     },
     "25": {
       "name": "Degenic Nomad 7",
       "image_hash": "f273a601a2c274a9efcdfc8d7f13ea695578ba59c7dccef2dd3284a9d4a0f79b",
-      "image_link": "https://arweave.net/6FFxxrgbao347GOVHBDIvN1TNXPMAW2T_SzirzotS5Q?ext=png",
+      "image_link": "https://arweave.net/gGOpOEEBz0-xOxWrmvZyilRv0iOJTBoBrkDbFQFnqq8?ext=png",
       "metadata_hash": "1da69b70ab5bfd6bb227d5e997097e546213a60973685565ba024d252c1fa3b6",
-      "metadata_link": "https://arweave.net/F0NJ2CGNyvK2TdW7vR-4-QDyuaTpU6fBqb72E_4WCKk",
+      "metadata_link": "https://arweave.net/x9wAdj6xnYJDoH2rkvSJ6vc0jYE2qp8nnceVv-IaBI0",
       "onChain": true
     },
     "26": {
       "name": "Degenic Nomad 8",
       "image_hash": "b7ac862d2f8cdf3246c7b69b569027830eef30c87191fd657a741c25f0f07349",
-      "image_link": "https://arweave.net/MhP4Ywz4wiv7sZz4wMysux5sg1kueVOqQmpjgRxM2lo?ext=png",
+      "image_link": "https://arweave.net/AI861RpeS5Fg7w4zxVTcJzoAEMmjQIqi0oAZMUy6Ovg?ext=png",
       "metadata_hash": "dfb15946fe4096c454ba3774d333b5a57ec91bc558cd0a83430d688003558135",
-      "metadata_link": "https://arweave.net/SVuoEJ3VNRlvC6N0IrRIpAORs3yNLPOkLieKk2W6S6g",
+      "metadata_link": "https://arweave.net/sTtODzUXHB67z5_WGCs0OZRCmxqjE6dVKXsOCxlZIIQ",
       "onChain": true
     },
     "27": {
       "name": "Degenic Nomad 9",
       "image_hash": "3c475aad959937f897b57cb02a1659ac7a7c316cf95599017950a34acc649f31",
-      "image_link": "https://arweave.net/6Axs2tG14KVSmTkN6aNxQ51cbfyaujBAJzSgYz58Xno?ext=png",
+      "image_link": "https://arweave.net/BOvQNSlV9O3jddUX4q4GJ9fI8gYe3fWrPEQsESy2RkQ?ext=png",
       "metadata_hash": "a4ac22ffe03e609f4d797bf1d388eedd5e489a9a5af46b0111c022d944ef9e10",
-      "metadata_link": "https://arweave.net/TCg-H9RFSnfVFV06CCgZExZt82u3m2LQwb4AeMtH25w",
+      "metadata_link": "https://arweave.net/TnB01Obu8Az7HFiyXKrWkvKlzvIw8Fo1ixX6tXsyauc",
       "onChain": true
     },
     "28": {
       "name": "Degenic Nomad 10",
       "image_hash": "75d4ceb7b7c511d4d239064c27a3ef98423897264b476e4696099f178e8a92d5",
-      "image_link": "https://arweave.net/4gW_I5NdjcK867yMxk1tPLIBQU2VbKs3a8fFhQTFISc?ext=png",
+      "image_link": "https://arweave.net/wBy0-4LyMfnIpY1x4_RwdBz4YFMQkfR5Cpxh7WQlfow?ext=png",
       "metadata_hash": "4e8777bd913f13f59abd47895d8f6033c844355337e928bd62f2cd2ee4462381",
-      "metadata_link": "https://arweave.net/uAs-RXCtRFYtSWFiwTiBvK716ekm1ryIDeOF3HqBNo4",
+      "metadata_link": "https://arweave.net/qHpGQuAGuciJ0Ji8aMcLiLbftWNq2mTy9r-c7ERYKPU",
       "onChain": true
     },
     "29": {
       "name": "Degenic Nomad 11",
       "image_hash": "66e2f16bedb771b22c8147c0771d6be8f856c4cd8860f6d81b950ec36b7cf383",
-      "image_link": "https://arweave.net/QN_xQ_-N8A1ZNTSkrA0rxOpIw-l7voBuDWsFovUPQeY?ext=png",
+      "image_link": "https://arweave.net/7yIZBzBfDF8nacHoE8L0Uugifiw2Sm5UHU7Y18H_YX8?ext=png",
       "metadata_hash": "6616172fb3b8c0d28199ed589f510de0be96f2336ec3e4e20ac8b7c5673a3be6",
-      "metadata_link": "https://arweave.net/fAVsOARcCrAXJCrnVQcrHXZRyCUoto_K0wS56kddr_w",
+      "metadata_link": "https://arweave.net/Q20hpcAI4oaN9-XYgcomeVWrXdPou4vfdQl3vxJIxUQ",
       "onChain": true
     },
     "3": {
       "name": "Dream Traveler",
       "image_hash": "81a26023670708715648b225fdc2fa426b6bd16c44350136f593926d3e572951",
-      "image_link": "https://arweave.net/pa9cyZ_Ak5tOgWiGjwucBzO7egdJ29zWC8x81WMhfXw?ext=png",
+      "image_link": "https://arweave.net/A-CvDPXB29ZD3P-VnVfMCPEgDSxC0yOaWxq404NkYjI?ext=png",
       "metadata_hash": "7d4973a14703a89ef55dae44d33ce0f3b31dbfe267a344980b85f2e50ca6c94b",
-      "metadata_link": "https://arweave.net/URZ0ZLMZzQ7R6d4Bt_A51opyca4PnWa8xYsKnEyVLgE",
+      "metadata_link": "https://arweave.net/5dX7VoLn0fvrbZGGTnEwnkGivkq8EBrBpduySfs5ZnY",
       "onChain": true
     },
     "30": {
       "name": "Degenic Nomad 12",
       "image_hash": "32d1a33451292545d95c9fc045265cc5d31eb847c82c5820c156fd412d045a3d",
-      "image_link": "https://arweave.net/ynjTjzUcRl8_4nVw2oAvwcAxNAbfDnjO2n7IkXXwqjE?ext=png",
+      "image_link": "https://arweave.net/6CLI9eoRSuhQA5R3rABcHmQ0Ot3idtpRRfq8PNsUHE4?ext=png",
       "metadata_hash": "dd07d5d1c8ec3a0c55ea808df9d37244a86bb183f2427fafd06dea6e2146c71d",
-      "metadata_link": "https://arweave.net/XSDxxqUY0uNNGzWa4VXgZ4Vf45EDjeWQ41DYGO6XbIc",
+      "metadata_link": "https://arweave.net/h34Sps55scF0ryFN5VbefQo1wbflOdgNJaV_woQv_GQ",
       "onChain": true
     },
     "31": {
       "name": "Degenic Nomad 13",
       "image_hash": "9db393302a736fc57f4198533e7532e9f013943def09113d001bb1e44328b408",
-      "image_link": "https://arweave.net/RjbLlHZD-aU7c8GI_N58mDvSmChSgMSZ7knofvTnXqA?ext=png",
+      "image_link": "https://arweave.net/kIwTmz3IuChh0a643en7t3h9kQy8QnBfQvN7Gz2JI5A?ext=png",
       "metadata_hash": "2f4b57a5cb8f7a93c92ce480353335004f71ef2766fa5e631f4eb36b2901a0a5",
-      "metadata_link": "https://arweave.net/hoYIy5j_O3X_rBzQSIPAzkTp6zFA2ntwjogN2aVFrD8",
+      "metadata_link": "https://arweave.net/397U37O_2leNiC4XGkaOF4crSfjhKbLXmqw1MAiTHTE",
       "onChain": true
     },
     "32": {
       "name": "No Fks Given Nomad",
       "image_hash": "ae1ce2b79fd255ae72a467e80ef79deb54b192a28016c3459d136a901e4347a9",
-      "image_link": "https://arweave.net/EdtB4uGZU773enI_ce8T38HIGHxsigtnro7P9P_4ry8?ext=png",
+      "image_link": "https://arweave.net/bcexSiPI6L9z22gdpcA6oOAqqwry7L_22fCF0vPllWE?ext=png",
       "metadata_hash": "f6210cb1ce74fdf948ed70e892cb87e8c6459f525815413abf08f58eced30be4",
-      "metadata_link": "https://arweave.net/sVHOrUUXZ1WHGzrIvwEkhLoF9Efg21k69bXEDitVLCo",
+      "metadata_link": "https://arweave.net/ZyTS16llDrCGv8t134rrz2x_K6__OJ3PaJM-fnmULqs",
       "onChain": true
     },
     "33": {
       "name": "Worryless Nomad",
       "image_hash": "8a930f1e479feec393400653f1ec21559103ab77281aff90006f29a662e92055",
-      "image_link": "https://arweave.net/yhmYytYRsNFnkKBcmrEGwpMaXBXBbvARJ1cCJDIBDDU?ext=png",
+      "image_link": "https://arweave.net/JIxZ6XgWZfjbXpO07M8kXKhLAwuiZaQfYWg2MfhcYjg?ext=png",
       "metadata_hash": "345e93e169db3aa015a36ebbf129f810e9f55d1cbda13b09cf4af0c369277aae",
-      "metadata_link": "https://arweave.net/FRZUNLi1rGNykH9wCVYNZOwTlnn1efsC9eQwMqfejQ8",
+      "metadata_link": "https://arweave.net/GJWFEtdrlj8ugtex8ESfEL5VoiY7WmKVn74m67sgafY",
       "onChain": true
     },
     "34": {
       "name": "survided Tide-pods",
       "image_hash": "1213a3af9b7d32d1abe9dd666e1535eb72f5231df1951d8eff36c28ae259497e",
-      "image_link": "https://arweave.net/eK8ANzLa5Tzj92TIG349tQB85uG132yZvNb1BYw0JrI?ext=png",
+      "image_link": "https://arweave.net/e97LSrFtf2sbF-WKuBkqnDmeM7JIXk5BJDKmVtKwxNI?ext=png",
       "metadata_hash": "b03f2b5f22177f944355301add242286754d90c6e6888d06d74d44d198cd8641",
-      "metadata_link": "https://arweave.net/5SS9pRGg7VdR7srOrHQqIkkAzrlfeIsGCtFfgvzN9Y4",
+      "metadata_link": "https://arweave.net/5I5Rnn7_iVPJMtlAs8UYxOpwVCwQCFKm-atK56UGn74",
       "onChain": true
     },
     "35": {
       "name": "Better-Be-Nice Nomad",
       "image_hash": "d56097a6f01b112405c9037b30661508e9caefbf86e49d5e4bc7e2e76b05af0f",
-      "image_link": "https://arweave.net/S1mbyErsP5V8klQtkQJPqdrNaqbwwnB1oOcpM0hAEl4?ext=png",
+      "image_link": "https://arweave.net/SAVMvw2RQrFYrS3YHQ2obzj-pG9ofTu3gf453yP4McM?ext=png",
       "metadata_hash": "57c8b001451e817aa4666cd743c4ae7b00f476e9cb76c842c8d304d260a78b88",
-      "metadata_link": "https://arweave.net/H0Ogl7RpcBV1NSbi3A2HwexF2ON1yw9suL5DfXdBCQA",
+      "metadata_link": "https://arweave.net/ZleQItDb59Fw0xU7HdQYHYgWR5z6yE4Etvg1QV86RVk",
       "onChain": true
     },
     "36": {
       "name": "Wind Walker",
       "image_hash": "106f5c1ac467cc8a7508de6279a62a5b7a66caf5a30ff50e2c7dc7b5799209de",
-      "image_link": "https://arweave.net/6h0C3mIGsdvRvTePku-h6xFJwPxWE7r6F5OLp0OZ394?ext=png",
+      "image_link": "https://arweave.net/Mzeww_mqjDP4olxPLWYBCvuBa7XsYLRmlVy5LjX82kI?ext=png",
       "metadata_hash": "7cdb9f98266bed7a7df3e52a2490fe2097b8cf7d75b7fabcc4754ef1923ee4dc",
-      "metadata_link": "https://arweave.net/i4UBrvTFMUDKXkfmbGcnzcw-bIF6sGUPJRyA4T72OIQ",
+      "metadata_link": "https://arweave.net/52fLxIEzksL-oIK28oEMGQ-8tnZQcOczKWb-w_1T88o",
       "onChain": true
     },
     "37": {
       "name": "The Thinker",
       "image_hash": "0f0c1f156f25d7d27fdc94d9fc8a478e3d04f514c29d4c7b134563df9d58de60",
-      "image_link": "https://arweave.net/uy2262FnlopoQmw-HEzru15rAg0GiuP76RiayTXJZdo?ext=png",
+      "image_link": "https://arweave.net/ZSkRmOl7516z8w8luelF4AmO7rnS1qr3kH_JZy2Fjpk?ext=png",
       "metadata_hash": "1294a181b2801633d23d41ff5717be73ca5081172d2c7e419104c5ce712bac4c",
-      "metadata_link": "https://arweave.net/NnVjfQx-U-h6V1FBl4XKgFTAjmv6EhXniumaPqqOZQ8",
+      "metadata_link": "https://arweave.net/l_zSUGz2WM5WfYJk7QdEymoP0qUbGBNAJmlurskW16U",
       "onChain": true
     },
     "38": {
       "name": "Recharged Nomad",
       "image_hash": "d4bd5494b2aef2174dd286ced3b144bc374f630c9b40e222611d8b6224ca74f6",
-      "image_link": "https://arweave.net/9nHjBYak3Q0j3W24zcDZWg-2HCRrpzZ4P5rUmqYEhII?ext=png",
+      "image_link": "https://arweave.net/_fS2vSoMtTYlmLorxJab4BJq3vpzjGoVY2Tj9VwSDL4?ext=png",
       "metadata_hash": "ef68dc5804ef6550fb7cb0f78ef85df5e0bccd78bed0792961b41ffd1990a160",
-      "metadata_link": "https://arweave.net/007BN-5zz3-gf6esHul0VsJeceajtkzKOwA0U624BnQ",
+      "metadata_link": "https://arweave.net/UucglFnI_h8fiXZQfmR7kItyJMACttcYwTIanufKoMQ",
       "onChain": true
     },
     "39": {
       "name": "Passport",
       "image_hash": "65a1a50a95474b37805ea89b1195303afcf5a2a5b5dc08398de72fd8cb525fd6",
-      "image_link": "https://arweave.net/jY0MYX3YIfaHO2uO-9YMUbB1evNKBAGFlLHHb4QyTFw?ext=png",
+      "image_link": "https://arweave.net/XnwplVJhD2zpT3URhCVrDnSqWXazOQJMC_1_FDa4P8A?ext=png",
       "metadata_hash": "9d9500f4cd491df736ede0f0de3e8d7cf19ebb53ea57e63ca4f51d0c670c65df",
-      "metadata_link": "https://arweave.net/YCROIGabVjKeppsiIKwpk7LnEMQ5_lSYUI6AWiO0_so",
+      "metadata_link": "https://arweave.net/TLrhdbBQNmYUeuUC7Y2HyPFu1n-7cHAm6RRK5SY4EEU",
       "onChain": true
     },
     "4": {
       "name": "SolarCity Nomad",
       "image_hash": "ec9954c8224756348e1b895547a78c3ed2d53c6625d9a95f13314455635a0f4f",
-      "image_link": "https://arweave.net/-XsLrnPtxtg-SrfZYHAxCucYzyT79wUKvndL3X7sNRU?ext=png",
+      "image_link": "https://arweave.net/sfDTc98lINcWXGwOrvdk0FtFjPUPayaP6RPXzibx8wo?ext=png",
       "metadata_hash": "61ee06f01e94142981ee9b7b95414d1f054d1b7f39c51757833dffc343e3ad6c",
-      "metadata_link": "https://arweave.net/IyLl4PpgXzqULgSfsWV5ckKDMrWPqUFQjybFrQ6TtFg",
+      "metadata_link": "https://arweave.net/elk2Jf5esJ-O3QgUnb1HWwkZjbOKLhYw5-3iPzrgTjA",
       "onChain": true
     },
     "40": {
       "name": "Relic",
       "image_hash": "3ea719b34fdc49073aba1830ef29bee5c532bc4ca95c7ccd614bbbeb7c158563",
-      "image_link": "https://arweave.net/vXsKIWv0pHSGQe5XeDhwD8X_ILO9etrkV69GVs51j8Q?ext=png",
+      "image_link": "https://arweave.net/za0gr1bT3ZIWUmmcrH0CSxKB9w1mWb-36xSD8w0uUQ4?ext=png",
       "metadata_hash": "ae2d84a9e8d533839caebb6de33fff0a87b833b67364b0022ac3848da936d961",
-      "metadata_link": "https://arweave.net/AIH_z91O5quC5765KATBgJMAczlcBIdXi5W47HkfuAY",
+      "metadata_link": "https://arweave.net/Akk2RpmyAJoLdIGVZvGFmxH7EvHFXF0_c5dgbA3oSuU",
       "onChain": true
     },
     "41": {
       "name": "Steadfast",
       "image_hash": "03ec00dd6c1923cdcbf879ef09b9aeb441859d3dd7f7816a19892994b5418edb",
-      "image_link": "https://arweave.net/26tpgO2Di0iUf4_EON8V35WwIowedVO-Z-tL2p7Qo9E?ext=png",
+      "image_link": "https://arweave.net/8mP5FMcGvHTLaGSzQhhznTSXFPxU1kD1rM5fJl_LbLM?ext=png",
       "metadata_hash": "9c2948baac9f41790b01ada85b8ceec08bf7bd983e28d3bdc99b11357b628dca",
-      "metadata_link": "https://arweave.net/Zz6kgi6XzyJvZDan3leMCdgQPTVt-WIDfObaL_v7kVI",
+      "metadata_link": "https://arweave.net/M76P13bgzMyYMUJF724F7zLY4c0DewrZhTZFhJnkHl0",
       "onChain": true
     },
     "42": {
       "name": "Relic",
       "image_hash": "0f9f999181311509f5590a0c196c9b3ff863fa58ff850c9c3fa3ff5e4831cda9",
-      "image_link": "https://arweave.net/PG5Qn-3at2bncpmQBOisaXI2ARg8lJa3-UqcnFPICRw?ext=png",
+      "image_link": "https://arweave.net/hw44Q9hxR3uIWYNKFPVIAVUY1AXENqcs2z2UVZ4DYAs?ext=png",
       "metadata_hash": "29986f50817e246346dc05c5a24e84f3dd28eedbeb6fd26590b4c570db916e9f",
-      "metadata_link": "https://arweave.net/ihQpvEPBkyQ9i2ekzVx4k7F93SDujmPnz7s081jvSqo",
+      "metadata_link": "https://arweave.net/JgG2vxBeKKtB31HlzYQr6S7zRjXwhahaCM3FmmTvla0",
       "onChain": true
     },
     "43": {
       "name": "The Ancient One",
       "image_hash": "5973ca32da4e8bc59b3eea3da62785a9675e17a452eeaf209f9f154e107bf0c9",
-      "image_link": "https://arweave.net/sgWm5W-QiTRja5zFSIdOMlFPmOj2WbpluDOmGBz8AG8?ext=png",
+      "image_link": "https://arweave.net/hUx1x1tYH-JEWWempd49QdzGjwTaOu2cbvtk52Fr46A?ext=png",
       "metadata_hash": "687c993ad91f8bc0537b6e2c5f8aff40e57d7d7167080d99ad8acc68168971e1",
-      "metadata_link": "https://arweave.net/wvkg02sAAj-HrLNrzSh12Un9iLEVw1vPAEHcCBVXuPw",
+      "metadata_link": "https://arweave.net/XBcjGjY9YhWFBJyp9GKrDbyzQ-Qed_G6RPIP3egeTHs",
       "onChain": true
     },
     "44": {
       "name": "Take Me With You",
       "image_hash": "76d2ffb710aab947789bb51c5c2fe9cfdaeae97be72e52bc9647adb139b59737",
-      "image_link": "https://arweave.net/QmxM23iHIjKqOPjNjaLoHfcI_J44mP_nypAqawB_cHY?ext=png",
+      "image_link": "https://arweave.net/ga_x7wKzzUrMdUbD4lDLw3cGQ2bfTFhef3BvBT29MzU?ext=png",
       "metadata_hash": "bfe0c8008202e61edd7c1724af057a3e9f84300000e8ced796f9eff3310e2e59",
-      "metadata_link": "https://arweave.net/IF4QHiqKhwVaAPizrcQQyB1wpD6iB9tflttfTWYS3bM",
+      "metadata_link": "https://arweave.net/dJStFQZs0i6ztCk3T_jXXNjABQJBoWkYD1SgSitTG2A",
       "onChain": true
     },
     "45": {
       "name": "Vespucci",
       "image_hash": "bfc01fcf8fb4c7b292b63d663ff1aeb89b04484d2096625709aead4ca90f5552",
-      "image_link": "https://arweave.net/u8TnVgfPIAvKdJGRVO6Xu7eVpZJLHzPUqTY7-Tzs0f4?ext=png",
+      "image_link": "https://arweave.net/yq_dwr2Y_yClR2BzBONPkEs2JrIVlmx62KHzltEUtt4?ext=png",
       "metadata_hash": "cd09e044225f7e955798ca45fe26ef6c2062857081f95f2c4d9d20b2f722111d",
-      "metadata_link": "https://arweave.net/qlq0I3wcCfrQ4Evc3AmAy1aa2PYyuVXFNXbb_Jjb9Vk",
+      "metadata_link": "https://arweave.net/rR5u1CV4lH215c74r7RmJrReZC5xC9PRquandmw3zIM",
       "onChain": true
     },
     "46": {
       "name": "Degenic Nomad 14",
       "image_hash": "b1b8060080f235ac623641a442bb9775359371c889a4ca3ac417c78132801535",
-      "image_link": "https://arweave.net/DedWZ-6NApCBERyW2aAAPK7XTph8feh0Rq8wkSpDD2A?ext=png",
+      "image_link": "https://arweave.net/e5cf12DN53B8qGkwbzaextYMplgm0zQfthFLLiBeTtw?ext=png",
       "metadata_hash": "5d50aea8afe44da6db2a655233a78d0d4b1fb30b0dbe5bec94c4ff79f60f009b",
-      "metadata_link": "https://arweave.net/_Dafsyx54GZzEVwKYQVbyYvr0njBfuGWuvCAjxDdtzc",
+      "metadata_link": "https://arweave.net/2mrHq75a_knaHNm87aI6Y5mJ5dSF3DzCcHeGu86fA4A",
       "onChain": true
     },
     "47": {
       "name": "Blockfather Special 4",
       "image_hash": "b47dbd6cf07b1d8453a48805267c62ef8705772ea2e00648911cbdbfc697b5df",
-      "image_link": "https://arweave.net/UW-ngJlpDWxzGCZY1v5FGgXbfj5yG_b5U7ohFGywzX8?ext=png",
+      "image_link": "https://arweave.net/bICeeHbIkjpuoGT5FoL8wfjpxg2RWwFuyFP-pzjfnrM?ext=png",
       "metadata_hash": "1518d6e9730a1377def48ff5f8518cfb4b8986aedb66294560e766c9a86113a9",
-      "metadata_link": "https://arweave.net/MrKaEGjPLDteJbLpHEWhWx_MYKWFz4Tg-OVcjxjYd0I",
+      "metadata_link": "https://arweave.net/w3O5nCUi4hZQCeZmEi6CpQbbZ92x0asb7P7ejU7-VyE",
       "onChain": true
     },
     "48": {
       "name": "Blockfather Special 3",
       "image_hash": "90259e2444dc8bf72aa8e947c4c05fd3210d7dd6615abd11195b32106a315265",
-      "image_link": "https://arweave.net/XEYnHkSXVAl6VOIDt1m40VJYDRoZ_aPY1a-JTdWqizM?ext=png",
+      "image_link": "https://arweave.net/XuQ7oARGfdqFP87S4jJWZQMr1Tk48rjZweruLQ5ymxs?ext=png",
       "metadata_hash": "60a070c5ea66b7f9e6810d3bfd168cf571173d7ed995f3e4a8aa893047c59525",
-      "metadata_link": "https://arweave.net/22cxGqLa_BkvSL2H7Pnk7qcvz03XGKGlMhsOCNNZ-J0",
+      "metadata_link": "https://arweave.net/FaDh1ImsepfJgj7UKfmlBSgnTk6HcJLEDc1naZxHDEI",
       "onChain": true
     },
     "49": {
       "name": "Blockfather Special 2",
       "image_hash": "eee37496236e70a7cd0be943626fc85f2f7ac2a0035075e8a54499e172de7919",
-      "image_link": "https://arweave.net/XyhKvRLR6ZjxiFIEU26y9TiBt9Dw-E6-vMQbK62XVYU?ext=png",
+      "image_link": "https://arweave.net/x1xd6ElZ4YeHXFQmdgAYQ_dVbUIeC6EEq9SktXtHxCc?ext=png",
       "metadata_hash": "493078b1762164beb57585bfec4ccd6b194d7fe33988c761baea9fdb24ae5fc7",
-      "metadata_link": "https://arweave.net/2GL8iqkgLaYfWFMIUi2hr0fe_Y5CuJzO_qW-45NIgrU",
+      "metadata_link": "https://arweave.net/KgmzBOYxsUEz0utNNDFZqqJIejSxqPa8EyC-jNuI8f8",
       "onChain": true
     },
     "5": {
       "name": "Vibiest Nomad",
       "image_hash": "d1a28fdb22f27f3b1720449a18668663a7b28ed1833f6ce905706988f6a0c787",
-      "image_link": "https://arweave.net/div7HMCK2UCJf_1BRWZJXOHSzWyMBBIt2wnXhLfQbiE?ext=png",
+      "image_link": "https://arweave.net/vJYX3llrjO1RV-wmEOJFpKjBct3RStzJZf4epmKYBLo?ext=png",
       "metadata_hash": "754458096acc5dd846087f09546c965fa1da0029f7c6710432936f16581235ef",
-      "metadata_link": "https://arweave.net/nLrhsRvS1Sc_EbW0Z8EQaDKUx_tkJclyeO6sXVmT-fQ",
+      "metadata_link": "https://arweave.net/7O95Q5jcWC5sAmgfmzrutLkUSF73xa1F4k2WoEmS6Gs",
       "onChain": true
     },
     "50": {
       "name": "Blockfather Special 1",
       "image_hash": "4bc360347621dd554d5a82873174cb6f778fa1a7737d2cabde57b20e63d1a4de",
-      "image_link": "https://arweave.net/RZeRGOjDurSSU83R3PH0BZ6RojVSJK-TJG7WIdnRPkk?ext=png",
+      "image_link": "https://arweave.net/aTITJf0sCPuNx463z5G9CF5rfPSS7nWDe4GZb8NfK7c?ext=png",
       "metadata_hash": "f305d47b6c783272fe241edc5cc91f260efb808f8e6302336c3d85210e159b40",
-      "metadata_link": "https://arweave.net/PhdD1AKlipBT8Ny1xbBhPOe2bwMhV4Aq9re4dqA_r3k",
+      "metadata_link": "https://arweave.net/LMyYlhpoVQDUCypXmbLiyYGFYlcXGhtNapgFV1Ian70",
       "onChain": true
     },
     "51": {
       "name": "Blockfather Special 0",
       "image_hash": "e37910b2ebe797075ff967461a2cd683de37fda53ea997236f94d42e40504727",
-      "image_link": "https://arweave.net/w8vVPCv8jNIukxSk1mYU2yvoL6unIJ_QzLxCYkaRoCs?ext=png",
+      "image_link": "https://arweave.net/weIju0FjspBzR8Db3hJnGlY7gOSawo5ZopVi7CLbNHY?ext=png",
       "metadata_hash": "40a98a0ea26098a375a5536df436b75513c2a42f581067faa774448daf7cf627",
-      "metadata_link": "https://arweave.net/1b-sLV8QeirJt4VjSO7qFcjdQwT4HSo3HnrIfvxqHxM",
+      "metadata_link": "https://arweave.net/RCr4KmkKyy_nftEmSibqvQKhXCYib5maNdGFpdYe9LI",
       "onChain": true
     },
     "6": {
       "name": "Golden God Boomer",
       "image_hash": "e0ed562aa8531420b486175b813aba3513d4bf1cc9dded54da000a069702fca9",
-      "image_link": "https://arweave.net/LSjETTOVG4WvQv7Yc6yx7mD2TQJyHsFCDvIBGIWOaUk?ext=png",
+      "image_link": "https://arweave.net/YjhnhL48ic5ZOPbjQuY08XVOBl9pFPwxITeTmXRTt-Q?ext=png",
       "metadata_hash": "5c0bf8e6c0922ed07dbe3b6aa86efdfa196c67154e754adb7c892341254f197d",
-      "metadata_link": "https://arweave.net/crPlTDITs8LUahyrKJEuZ6z3Az-JoAxtD0YPBA6Hiuo",
+      "metadata_link": "https://arweave.net/oYWUFRAulDtKh8vrZARhnBVwQHJfAbO-ZELll69MoD0",
       "onChain": true
     },
     "7": {
       "name": "Golden God Millennial",
       "image_hash": "5c1bec1472942d416ecb2b82fa686b02d62d7892ab84a2aedee0fffb6c31426c",
-      "image_link": "https://arweave.net/f97KPuUtd1iAlzXsIQJ-MJKWxG-seW_XRXLTKuFyq2s?ext=png",
+      "image_link": "https://arweave.net/CjMBM3_hT506xc9aXfjTh-avAS1tiqreSkNDF3P2f4Q?ext=png",
       "metadata_hash": "4ac43be71c4ba3791ab7cf699d0a60b14e616efd877fbf0d3f1e5fce8da224d1",
-      "metadata_link": "https://arweave.net/ezlhEL3CCM4V3E5KvUVsVk2i8XJUmfjNa4TprGZrYzc",
+      "metadata_link": "https://arweave.net/c9Gq1LmyvKz31lXZIhBW-n--9R0IDqkAE7Hdn5jnP0Y",
       "onChain": true
     },
     "8": {
       "name": "Cornonaut",
       "image_hash": "02f7f9cd2122d4283545512a2d7536990b68bd3d834cd6fa65780cfe509f8756",
-      "image_link": "https://arweave.net/CXwt4LRjjmdjPEOT7BYMPAAQx-lKI1moEa1T5A78TR8?ext=png",
+      "image_link": "https://arweave.net/o68aQpRjibg8eAFCZx6QSxmnG36Vexh9b1HD-fcwAFg?ext=png",
       "metadata_hash": "b0418571686c4cefc0bdceece7217e6d446b21e6ad5e118dcd113ecb8001a10b",
-      "metadata_link": "https://arweave.net/ymW73EUIVttemuFoFIxEQIu-dIoh_b10nPFhXcoR3xo",
+      "metadata_link": "https://arweave.net/GGunHPf4sTzum_WzYWAiQmJPISibb5IVDxCm2kVO2NE",
       "onChain": true
     },
     "9": {
       "name": "Golden God Rambler",
       "image_hash": "1cc41125fbf7033b0301fea3c63256328b0f70db4d8f06d1384a41aa6c74cf34",
-      "image_link": "https://arweave.net/31pkqO4BjBw5IxI9JrYnSboSNI7dB6xCz3_nKeofHjo?ext=png",
+      "image_link": "https://arweave.net/O1m5g36_YUtP8wLUlQRTZljxxbpjYwnMGL2-7Lklb6E?ext=png",
       "metadata_hash": "f960b0db50bdba72f54536c8062384898a2a7d6d027f5c09d2f16b667ee78049",
-      "metadata_link": "https://arweave.net/FdI1nLgOolF9ywfcebphL4hPAUx-euU1-_vuVqQ7550",
+      "metadata_link": "https://arweave.net/uElbmcMJvrGox5QN4dF5RHulimT2uDgNZsvut8OTHyk",
       "onChain": true
     }
   }
